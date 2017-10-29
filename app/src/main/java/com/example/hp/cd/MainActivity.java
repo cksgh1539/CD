@@ -28,7 +28,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
-
+//프리퍼런스 관련 코드!!
 public class MainActivity extends AppCompatActivity {
     final int REQUEST_SAVETO_EXTERNAL_STORAGE = 1;
     final int REQUEST_LOADFROM_EXTERNAL_STORAGE = 2;
